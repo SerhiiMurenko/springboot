@@ -1,9 +1,9 @@
-package pl.hirely.springboot.controller;
+package pl.hirely.springboot.books.model.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
-import pl.hirely.springboot.model.Book;
+import pl.hirely.springboot.books.model.Book;
 
 
     @RestController

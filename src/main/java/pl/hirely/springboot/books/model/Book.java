@@ -1,4 +1,4 @@
-package pl.hirely.springboot.model;
+package pl.hirely.springboot.books.model;
 
 public class Book {
     private String title;
